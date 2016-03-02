@@ -1,0 +1,4 @@
+F:\bajinsheng\Documents\Visual Studio 2013\Projects\EasyCalendar\ScheduledTaskAgent1\Bin\Debug\ScheduledTaskAgent1.dll
+F:\bajinsheng\Documents\Visual Studio 2013\Projects\EasyCalendar\ScheduledTaskAgent1\Bin\Debug\ScheduledTaskAgent1.pdb
+F:\bajinsheng\Documents\Visual Studio 2013\Projects\EasyCalendar\ScheduledTaskAgent1\obj\Debug\ScheduledTaskAgent1.dll
+F:\bajinsheng\Documents\Visual Studio 2013\Projects\EasyCalendar\ScheduledTaskAgent1\obj\Debug\ScheduledTaskAgent1.pdb

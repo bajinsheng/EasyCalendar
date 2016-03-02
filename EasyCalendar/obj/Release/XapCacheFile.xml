@@ -1,0 +1,17 @@
+﻿<xapCache source="F:\bajinsheng\Documents\Visual Studio 2013\Projects\EasyCalendar\EasyCalendar\Bin\Release\EasyCalendar_Release_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="2014/8/20 13:27:19">
+  <file source="F:\bajinsheng\Documents\Visual Studio 2013\Projects\EasyCalendar\EasyCalendar\obj\Release\EasyCalendar.dll" archivePath="EasyCalendar.dll" lastWriteTime="2014/8/20 13:27:19" />
+  <file source="F:\bajinsheng\Documents\Visual Studio 2013\Projects\EasyCalendar\EasyCalendar\obj\Release\en-US\EasyCalendar.resources.dll" archivePath="en-US\EasyCalendar.resources.dll" lastWriteTime="2014/8/20 13:27:19" />
+  <file source="F:\bajinsheng\Documents\Visual Studio 2013\Projects\EasyCalendar\EasyCalendar\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="2014/8/14 11:14:17" />
+  <file source="F:\bajinsheng\Documents\Visual Studio 2013\Projects\EasyCalendar\EasyCalendar\Assets\Icons\Dark\back.png" archivePath="Assets\Icons\Dark\back.png" lastWriteTime="2014/8/14 11:22:05" />
+  <file source="F:\bajinsheng\Documents\Visual Studio 2013\Projects\EasyCalendar\EasyCalendar\Assets\Icons\Dark\favs.png" archivePath="Assets\Icons\Dark\favs.png" lastWriteTime="2014/8/14 11:22:05" />
+  <file source="F:\bajinsheng\Documents\Visual Studio 2013\Projects\EasyCalendar\EasyCalendar\Assets\Icons\Dark\next.png" archivePath="Assets\Icons\Dark\next.png" lastWriteTime="2014/8/14 11:22:05" />
+  <file source="F:\bajinsheng\Documents\Visual Studio 2013\Projects\EasyCalendar\EasyCalendar\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="2014/8/14 16:57:56" />
+  <file source="F:\bajinsheng\Documents\Visual Studio 2013\Projects\EasyCalendar\EasyCalendar\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="2014/8/14 16:57:21" />
+  <file source="F:\bajinsheng\Documents\Visual Studio 2013\Projects\EasyCalendar\EasyCalendar\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="2014/8/14 16:58:13" />
+  <file source="F:\bajinsheng\Documents\Visual Studio 2013\Projects\EasyCalendar\EasyCalendar\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="2014/8/14 16:58:27" />
+  <file source="F:\bajinsheng\Documents\Visual Studio 2013\Projects\EasyCalendar\EasyCalendar\Bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2014/8/20 13:27:19" />
+  <file source="F:\bajinsheng\Documents\Visual Studio 2013\Projects\EasyCalendar\EasyCalendar\Bin\Release\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="2014/8/14 17:02:53" />
+  <file source="F:\bajinsheng\Documents\Visual Studio 2013\Projects\EasyCalendar\EasyCalendar\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="2014/8/14 16:57:39" />
+  <file source="F:\bajinsheng\Documents\Visual Studio 2013\Projects\EasyCalendar\ScheduledTaskAgent1\Bin\Release\ScheduledTaskAgent1.dll" archivePath="ScheduledTaskAgent1.dll" lastWriteTime="2014/8/20 13:27:17" />
+  <file source="F:\bajinsheng\Documents\Visual Studio 2013\Projects\EasyCalendar\EasyCalendar\Bin\Release\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="2014/8/20 13:27:19" />
+</xapCache>

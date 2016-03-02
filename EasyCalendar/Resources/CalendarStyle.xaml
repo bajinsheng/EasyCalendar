@@ -1,0 +1,51 @@
+﻿<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:System="clr-namespace:System;assembly=mscorlib"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone">
+
+    <Color x:Key="GlobalBackgroundColor">#FF34BA6C</Color>
+    <Color x:Key="CalendarBackgroundColor">#FFF9F9F9</Color>
+    <Color x:Key="CalendarForegroundColor">#FF000000</Color>
+    <Color x:Key="CalendarHypoForegroundColor">#FFAAAAAA</Color>
+
+    <SolidColorBrush x:Key="GlobalBackgroundBrush" Color="{StaticResource GlobalBackgroundColor}" />
+    <SolidColorBrush x:Key="CalendarBackgroundBrush" Color="{StaticResource CalendarBackgroundColor}" />
+    <SolidColorBrush x:Key="CalendarForegroundBrush" Color="{StaticResource CalendarForegroundColor}" />
+    <SolidColorBrush x:Key="CalendarHypoForegroundBrush" Color="{StaticResource CalendarHypoForegroundColor}" />
+
+    <Style x:Key="LayoutGridStyle" TargetType="Grid">
+        <Setter Property="Background" Value="{StaticResource GlobalBackgroundBrush}" />
+    </Style>
+
+    <Style x:Key="CalendarGridStyle" TargetType="Grid">
+        <Setter Property="Background" Value="White" />
+        <Setter Property="Margin" Value="12,0,12,12" />
+        <Setter Property="ShowGridLines" Value="True" />
+    </Style>
+    
+    <Style x:Key="CalendarItemBaseStyle" TargetType="TextBlock">
+        <Setter Property="FontFamily" Value="{StaticResource PhoneFontFamilyNormal}" />
+        <Setter Property="FontSize" Value="{StaticResource PhoneFontSizeNormal}" />
+        <Setter Property="Foreground" Value="{StaticResource CalendarForegroundBrush}" />
+        <Setter Property="Margin" Value="{StaticResource PhoneHorizontalMargin}" />
+        <Setter Property="TextAlignment" Value="Center" />
+        <Setter Property="VerticalAlignment" Value="Center" />
+    </Style>
+
+    <Style x:Key="CalendarTileStyle" TargetType="TextBlock" BasedOn="{StaticResource CalendarItemBaseStyle}">
+        <Setter Property="FontSize" Value="{StaticResource PhoneFontSizeMediumLarge}" />
+        <Setter Property="FontWeight" Value="Black" />
+        <Setter Property="Margin" Value="0" />
+    </Style>
+
+    <Style x:Key="CalendarDateStyle" TargetType="TextBlock" BasedOn="{StaticResource CalendarItemBaseStyle}">
+        <Setter Property="FontSize" Value="{StaticResource PhoneFontSizeLarge}" />
+    </Style>
+
+    <Style x:Key="CalendarHypoDateStyle" TargetType="TextBlock" BasedOn="{StaticResource CalendarItemBaseStyle}">
+        <Setter Property="Foreground" Value="{StaticResource CalendarHypoForegroundBrush}" />
+        <Setter Property="FontSize" Value="{StaticResource PhoneFontSizeLarge}" />
+    </Style>
+</ResourceDictionary>
